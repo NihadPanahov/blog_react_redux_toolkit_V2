@@ -1,0 +1,45 @@
+.home_div{
+    font-size: 19px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    position: relative;
+    .first_paragraph{
+        width: 50%;
+    }
+    .second_paragraph{
+        width: 50%;
+        float: right;   
+    }
+    .thirth_paragraph{
+        width: 50%;
+        margin-top: 30%;
+    }
+
+    .w1{
+        position: absolute;
+        margin-left: 12%;
+        top: 0%;
+        width: 450px;
+        height: 300px;
+        border-radius: 10px;
+
+    }
+    .w2{
+        position: absolute;
+        margin-left: -37%;
+        top: 38%;
+        width: 430px;
+        height: 310px;
+        border-radius: 10px;
+
+    }
+    .w3{
+        position: absolute;
+        margin-left: 10%;
+        top: 75%;
+        width: 500px;
+        height: 250px;
+        border-radius: 10px;
+
+    }
+}

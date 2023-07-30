@@ -1,0 +1,31 @@
+.header_ul {
+    height: 10vh;
+    width: 100%;
+    background-color: #FFD700;
+    position: relative;
+
+    ul {
+        list-style: none;
+        li {
+            margin-top: 12px;
+            a {
+                color: white;
+                font-size: 23px;
+                font-weight: 600;
+                text-decoration: none;
+            }
+        }
+
+        display: flex;
+        justify-content: space-between;
+    }
+}
+
+img{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 45%;
+    border-radius: 50%;
+    top: 7%;
+}
